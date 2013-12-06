@@ -2,8 +2,6 @@
 #include <iostream>
 #include <string>
 #include "Car.h"
-
-
 using namespace std;
 void print(){
 	cout << "Hej!" << endl;
@@ -19,7 +17,4 @@ int main(int argc, char *argv){
 	Car car("BMW");
 	cout << car << endl;
 	return 0;
-
-	
-
 }
