@@ -1,5 +1,5 @@
-if(fave == ""){
+if(fave == "Daniel")
 	printf "du valde min fave!";
 }else{
-	pintf " är min favorit!";
+	pintf "Daniel är min favorit!";
 }
