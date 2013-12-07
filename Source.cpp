@@ -16,5 +16,6 @@ int main(int argc, char *argv){
 	print();
 	Car car("BMW");
 	cout << car << endl;
+	cout << "FUCK MY LIFE";
 	return 0;
 }
